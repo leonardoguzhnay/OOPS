@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": 123,
+        "nombre": "Iluminaria",
+        "precio": 12.0,
+        "stock": 100,
+        "tipo": "Electrónico"
+    },
+    {
+        "codigo": 126,
+        "nombre": "Televisor",
+        "precio": 1500.0,
+        "stock": 2,
+        "tipo": "Electrónico"
+    },
+    {
+        "codigo": 1,
+        "nombre": "Cuchara",
+        "precio": 1.0,
+        "stock": 1000,
+        "tipo": "Alimenticio"
+    }
+]
